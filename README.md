@@ -1,5 +1,5 @@
-# Develop By : Naveen Kumar T
-# Req No : 212223220067
+# Develop By : SRIDHARSHAN D
+# Req No : 212223040205
 # EX-NO14-HASH-ALGORITHM
 
 ## AIM:
